@@ -1,1 +1,1 @@
-sample content
+New content for the file.
