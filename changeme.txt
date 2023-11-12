@@ -1,1 +1,1 @@
-NOT
+SWITCH
